@@ -9,3 +9,25 @@
 By combining CNN for image recognition and LSTM for chatbot interaction, ZooSavvy leverages the strengths of each model to deliver a comprehensive and interactive educational platform for zoo visitors.
 
 # ML team responsibilities : 
+Collect and prepare a image dataset.
+Building a machine learning model which can classify images using CNN architecture.
+Create image descriptions and similar image features.
+Create dataset for prediction text.
+Building a machine learning model which can prediction text using LSTM architecture.
+
+#ML members :
+M287BSY0796 | Ezra Dwi Nouval Firmansyah     | Universitas Pakuan      – M287BSY0796@bangkit.academy
+M169DSY0144 | Shiennyta Florensia Adiriyanto | Universitas Udayana     – M014BSX0869@bangkit.academy
+M254BSY0102 | Aditiya Saputra                | Universitas Mercu Buana – M254BSY0102@bangkit.academy
+
+# Installation
+1. Image Recognition
+  •	Upload Model TF Lite to Gdrive
+  •	Upload Animal Image
+  •	Get the predicted class
+  •	Get description similar animal class
+2. Chatbot
+  •	Save model to H5 
+  •	Build use flask in app.py 
+  •	Test input in postman
+  •	Get output chatbot from the input 
