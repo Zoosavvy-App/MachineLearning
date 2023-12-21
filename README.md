@@ -10,13 +10,17 @@ By combining CNN for image recognition and LSTM for chatbot interaction, ZooSavv
 
 # ML team responsibilities : 
 • Collect and prepare a image dataset.
+
 • Building a machine learning model which can classify images using CNN architecture.
+
 • Create image descriptions and similar image features.
+
 • Create dataset for prediction text.
+
 • Building a machine learning model which can prediction text using LSTM architecture.
 
 
-#ML members :
+# ML members :
 M287BSY0796 | Ezra Dwi Nouval Firmansyah     | Universitas Pakuan      – M287BSY0796@bangkit.academy
 M169DSY0144 | Shiennyta Florensia Adiriyanto | Universitas Udayana     – M014BSX0869@bangkit.academy
 M254BSY0102 | Aditiya Saputra                | Universitas Mercu Buana – M254BSY0102@bangkit.academy
