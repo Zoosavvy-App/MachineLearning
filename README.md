@@ -29,12 +29,21 @@ M254BSY0102 | Aditiya Saputra                | Universitas Mercu Buana – M254B
 
 # Installation
 1. Image Recognition
+   
   •	Upload Model TF Lite to Gdrive
+  
   •	Upload Animal Image
+  
   •	Get the predicted class
+  
   •	Get description similar animal class
+  
 2. Chatbot
-  •	Save model to H5 
+   
+  •	Save model to H5
+  
   •	Build use flask in app.py 
+  
   •	Test input in postman
+  
   •	Get output chatbot from the input 
