@@ -5,4 +5,7 @@
     
   •	Long Short-Term Memory (LSTM) for Chatbot Interaction:
     The chatbot functionality in ZooSavvy is powered by a Long Short-Term Memory (LSTM) network. LSTMs are a type of recurrent neural network (RNN) known for their ability to understand and generate sequences of data. In ZooSavvy, LSTM is utilized to create      an interactive chatbot that can engage users in meaningful conversations about animal conservation. The model's architecture enables it to understand context, remember previous interactions, and provide informative responses, contributing to a dynamic        and engaging user experience.
+    
 By combining CNN for image recognition and LSTM for chatbot interaction, ZooSavvy leverages the strengths of each model to deliver a comprehensive and interactive educational platform for zoo visitors.
+
+# ML team responsibilities : 
