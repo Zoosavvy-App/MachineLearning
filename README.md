@@ -19,6 +19,13 @@ By combining CNN for image recognition and LSTM for chatbot interaction, ZooSavv
 
 • Building a machine learning model which can prediction text using LSTM architecture.
 
+• Export Model H5 and make API for chatbot, and Export Model Image Classification format TFLite
+
+• Testing Input text From API and success, Chatbot answer the question
+
+• Testing model image classification format TFLite, by input image animal and correct predict 10 out of 13 image
+
+
 
 # ML members :
 M287BSY0796 | Ezra Dwi Nouval Firmansyah     | Universitas Pakuan      – M287BSY0796@bangkit.academy
